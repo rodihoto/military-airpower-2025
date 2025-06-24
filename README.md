@@ -16,7 +16,3 @@ This project visualizes the top 10 countries with the largest military aircraft 
 
 ## 📎 Source
 [Global Firepower – Total Aircraft (2025)](https://www.globalfirepower.com/aircraft-total.php)
-
-## 🌐 Preview
-
-![Bar Chart](top_10_aircraft_2025.png)
